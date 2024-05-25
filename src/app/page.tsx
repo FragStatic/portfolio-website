@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       <header></header>
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
-
+        <a>test</a>
       </main>
       <footer></footer>
     </div>
